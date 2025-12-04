@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println(piscine.CheckNumber("Hello"))
-	fmt.Println(piscine.CheckNumber("Hello1"))
+	fmt.Println(piscine.CountAlpha("Hello world"))
+	fmt.Println(piscine.CountAlpha("H e l l o"))
+	fmt.Println(piscine.CountAlpha("H1e2l3l4o"))
 }
