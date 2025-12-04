@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	fmt.Println(piscine.FishAndChips(4))
-	fmt.Println(piscine.FishAndChips(9))
-	fmt.Println(piscine.FishAndChips(6))
-
+	fmt.Println(piscine.HashCode("A"))
+	fmt.Println(piscine.HashCode("AB"))
+	fmt.Println(piscine.HashCode("BAC"))
+	fmt.Println(piscine.HashCode("Hello World"))
 }
