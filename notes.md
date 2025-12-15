@@ -1,14 +1,5 @@
-- lastword
-- repeatalpha
-- canjump
-- printrevcomb
 - printmemory
+- zipstring
+- canjump
 - fprime
-- splitwords
-- wdmatch
-- revconcatalternate
-
-// to pratice of check again
-
-- isPrime
-- split words
+- concetalternate
